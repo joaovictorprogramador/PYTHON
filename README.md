@@ -1,2 +1,5 @@
 # PYTHON
-Códigos em Python
+_Codificando em Python_
+
+### Olá Mundo
+`print("Hello World!")`
