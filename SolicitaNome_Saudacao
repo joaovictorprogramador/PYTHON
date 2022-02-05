@@ -1,0 +1,3 @@
+print("Digite seu nome: ")
+nome = str(input())
+print("Hello, " + nome + "!\nSeja bem-vindo!")
