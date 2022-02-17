@@ -1,4 +1,5 @@
 # Algoritmo que recebe como entrada os valores 8 e 10, faz o processamento da soma desses dois valores e apresenta um resultado como saída.
+  # Ao executar esse programa, será apresentado em tela o valor 18.
 
 entrada1 = 8
 entrada2 = 10
