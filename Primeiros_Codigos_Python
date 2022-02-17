@@ -1,0 +1,6 @@
+# Algoritmo que recebe como entrada os valores 8 e 10, faz o processamento da soma desses dois valores e apresenta um resultado como saída.
+
+entrada1 = 8
+entrada2 = 10
+resultado = entrada1 + entrada2
+print(resultado)
