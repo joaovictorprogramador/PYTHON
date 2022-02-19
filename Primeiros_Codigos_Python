@@ -1,7 +1,31 @@
-# Algoritmo que recebe como entrada os valores 8 e 10, faz o processamento da soma desses dois valores e apresenta um resultado como saída.
-  # Ao executar esse programa, será apresentado em tela o valor 18.
+# "Projeto" 01 (Soma entre dois números)
+
+  '''
+  Algoritmo que recebe como entrada os valores 8 e 10, faz o processamento da soma desses dois valores e apresenta um resultado como saída.
+  Ao executar esse programa, será apresentado em tela o valor 18.
+  '''
 
 entrada1 = 8
 entrada2 = 10
 resultado = entrada1 + entrada2
 print(resultado)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# "Projeto" 02 (Ímpar ou Par)
+
+  '''
+  Algoritmo pede que você digite um número, e ele dirá se esse número é ÍMPAR ou PAR.
+  PARES  : 0 2 4 6 8 10...
+  IMPARES: 1 3 5 7 9 11...
+  '''
+
+while True:
+    try:
+        valor = int(input("Digite um valor: "))
+        if valor % 2 == 0:
+            print("O número escolhido é PAR!")
+        else:
+            print("O número escolhido é ÍMPAR!")
+    except:
+        print("Digite apenas números!")
