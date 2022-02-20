@@ -1,3 +1,5 @@
+# Nesse projeto serão solicitados dois números, onde ao fim, os mesmos serão somados e o resultado será apresentado na tela.
+
 print("VAMOS SOMAR DOIS NÚMEROS.\n")
 print("Digite o primeiro número: ")
 entrada1 = int(input())
