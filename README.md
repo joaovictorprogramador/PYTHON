@@ -1,10 +1,6 @@
-# PYTHON
-_Codificando na linguagem de programação Python_
-<hr>
+<h1 align="center">PYTHON</h1>
 
-### Olá Mundo!
-`print("Hello World!")`
-<hr>
+<p align="center">Codificando na linguagem de programação Python</p>
 
 ### Como saber se o PYTHON está instalado em seu PC? _(+ versão)_
 1º Utilize o atalho ***'Winkey + R'*** _(Tecla com símbolo do Windows + letra R)_ para abrir a caixa ***"Executar"***<br>
