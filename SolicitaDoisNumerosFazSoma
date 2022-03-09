@@ -6,5 +6,4 @@ entrada1 = int(input())
 print("Digite o segundo número: ")
 entrada2 = int(input())
 resultado = entrada1 + entrada2
-print("Resultado da soma: ")
-print(resultado)
+print("Resultado da soma: " + resultado)
