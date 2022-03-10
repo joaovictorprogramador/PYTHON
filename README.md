@@ -1,6 +1,9 @@
-<h1 align="center">PYTHON</h1>
+<h1 align="center"> PYTHON </h1>
 
-<p align="center">Codificando na linguagem de programação Python</p>
+<p align="center"> Codificando na linguagem de programação Python </p>
+
+<p align="left"> <b>DEFINIÇÃO:</b> Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. </p>
+<hr>
 
 <h3> Como saber se o PYTHON está instalado em seu PC? <i>(+ versão)</i> </h3>
 
