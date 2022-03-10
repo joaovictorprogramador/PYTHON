@@ -1,0 +1,12 @@
+QUESTÓES (fonte: Python Brasil)
+
+01. FAÇA UM PROGRAMA QUE MOSTRE A MENSAGEM "Hello World!" NA TELA.
+RESPOSTA:
+print("Hello World!")
+
+02. FAÇA UM PROGRAMA QUE PEÇA UM NÚMERO E ENTÃO MOSTRE A MENSAGEM "O número informado foi [número]".
+RESPOSTA:
+print("Escolha um número: ")
+numero = int(input())
+print("O número informado foi: ")
+print(numero)
