@@ -1,12 +1,22 @@
-QUESTÓES (fonte: Python Brasil)
+EXERCÍCIOS (fonte: Python Brasil)
 
 01. FAÇA UM PROGRAMA QUE MOSTRE A MENSAGEM "Hello World!" NA TELA.
-RESPOSTA:
+CÓDIGO:
 print("Hello World!")
 
 02. FAÇA UM PROGRAMA QUE PEÇA UM NÚMERO E ENTÃO MOSTRE A MENSAGEM "O número informado foi [número]".
-RESPOSTA:
+CÓDIGO:
 print("Escolha um número: ")
 numero = int(input())
 print("O número informado foi: ")
 print(numero)
+
+03. FAÇA UM PROGRAMA QUE PEÇA DOIS NÚMEROS E IMPRIMA A SOMA.
+CÓDIGO:
+print("Digite um número: ")
+num1 = int(input())
+print("Digite outro número: ")
+num2 = int(input())
+resultado = num1 + num2
+print("O resultado da soma dos números informados é: ")
+print(resultado)
