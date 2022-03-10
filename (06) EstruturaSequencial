@@ -1,17 +1,22 @@
 EXERCÍCIOS (fonte: Python Brasil)
 
 01. FAÇA UM PROGRAMA QUE MOSTRE A MENSAGEM "Hello World!" NA TELA.
+
 CÓDIGO:
 print("Hello World!")
+---------------------------------------------------------------------
 
 02. FAÇA UM PROGRAMA QUE PEÇA UM NÚMERO E ENTÃO MOSTRE A MENSAGEM "O número informado foi [número]".
+
 CÓDIGO:
 print("Escolha um número: ")
 numero = int(input())
 print("O número informado foi: ")
 print(numero)
+---------------------------------------------------------------------
 
 03. FAÇA UM PROGRAMA QUE PEÇA DOIS NÚMEROS E IMPRIMA A SOMA.
+
 CÓDIGO:
 print("Digite um número: ")
 num1 = int(input())
@@ -20,3 +25,26 @@ num2 = int(input())
 resultado = num1 + num2
 print("O resultado da soma dos números informados é: ")
 print(resultado)
+---------------------------------------------------------------------
+
+04. FAÇA UM PROGRAMA QUE PEÇA AS 4 NOTAS BIMESTRAIS E MOSTRE A MÉDIA.
+
+CÓDIGO:
+print("Digite as 4 notas bimestrais de um aluno qualquer: ")
+nota1 = int(input())
+nota2 = int(input())
+nota3 = int(input())
+nota4 = int(input())
+soma = nota1 + nota2 + nota3 + nota4
+media = soma / 4
+print("A média das notas do aluno é: ")
+print(media)
+---------------------------------------------------------------------
+
+05. FAÇA UM PROGRAMA QUE CONVERTA METROS PARA CENTÍMETROS.
+
+CÓDIGO:
+print("Digite uma quantidade em metros para que seja convertida em centímetros: ")
+metro = int(input())
+centimetro = metro * 1000
+print(metro, " metros equivalem a ", centimetro, " centímetros.")
