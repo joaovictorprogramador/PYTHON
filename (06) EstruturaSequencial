@@ -55,4 +55,16 @@ print(metro, " metros equivalem a ", centimetro, " centímetros.")
 CÓDIGO:
 raio = float(input("Para calcularmos a área de um círculo, digite o tamanho de seu raio (em centímetros): "))
 area = 3.14 * (raio * raio)
-print("A área do círculo é de: {:.2f}".format(area))
+print("A área do círculo é de: {:.2f}".format(area) , "cm².")
+---------------------------------------------------------------------
+
+07. FAÇA UM PROGRAMA QUE CALCULE A ÁREA DE UM QUADRADO, EM SEGUIDA MOSTRE O DOBRO DESTA ÁREA PARA O USUÁRIO.
+
+CÓDIGO:
+print("Vamos calcular a área de um quadrado, e em seguida mostrar o dobro da mesma.")
+base = float(input("Digite o tamanho da base do quadrado: "))
+altura = float(input("Digite o tamanho da altura do quadrado: "))
+area = base * altura
+print()
+print("A área do quadrado é de: " , area , "cm².")
+print("O dobro da área do quadrado é de: " , (area * 2) , "cm².")
