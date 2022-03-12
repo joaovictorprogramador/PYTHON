@@ -48,3 +48,11 @@ print("Digite uma quantidade em metros para que seja convertida em centímetros:
 metro = int(input())
 centimetro = metro * 1000
 print(metro, " metros equivalem a ", centimetro, " centímetros.")
+---------------------------------------------------------------------
+
+06. FAÇA UM PROGRAMA QUE PEÇA O RAIO DE UM CÍRCULO, CALCULE E MOSTRE SUA ÁREA.
+
+CÓDIGO:
+raio = float(input("Para calcularmos a área de um círculo, digite o tamanho de seu raio (em centímetros): "))
+area = 3.14 * (raio * raio)
+print("A área do círculo é de: {:.2f}".format(area))
