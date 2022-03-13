@@ -68,3 +68,13 @@ area = base * altura
 print()
 print("A área do quadrado é de: " , area , "cm².")
 print("O dobro da área do quadrado é de: " , (area * 2) , "cm².")
+---------------------------------------------------------------------
+
+08. FAÇA UM PROGRAMA QUE PERGUNTE QUANTO VOCÊ GANHA POR HORA E O NÚMERO DE HORAS TRABALHADAS NO MÊS. CALCULE E MOSTRE O TOTAL DO SEU SALÁRIO NO REFERIDO MÊS.
+
+CÓDIGO:
+print("Faremos o cálculo para saber quanto é o seu salário.")
+ValorHora = int(input("Quanto você ganha por hora? "))
+HorasTrabalhadas = int(input("Quantas horas você trabalha por mês? "))
+salario = ValorHora * HorasTrabalhadas
+print("Seu salário é de R$" , salario)
