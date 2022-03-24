@@ -5,6 +5,11 @@
 <p align="left"> <b>DEFINIÇÃO:</b> Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. </p>
 <hr>
 
+<p>Em PYTHON se uma "." <i>(ponto)</i>, e NÃO "," <i>(vírgula)!</i><br>
+<i>(Quando estamos nos referindo a um número DECIMAL)</i>
+</p>
+<hr>
+
 <h3> Como saber se o PYTHON está instalado em seu PC? <i>(+ versão)</i> </h3>
 
 <p>
