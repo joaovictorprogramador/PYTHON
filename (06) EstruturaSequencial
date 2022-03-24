@@ -78,3 +78,21 @@ ValorHora = int(input("Quanto você ganha por hora? "))
 HorasTrabalhadas = int(input("Quantas horas você trabalha por mês? "))
 salario = ValorHora * HorasTrabalhadas
 print("Seu salário é de R$" , salario)
+---------------------------------------------------------------------
+
+09. FAÇA UM PROGRAMA QUE PEÇA A TEMPERATURA EM GRAUS FAHRENHEIT, TRANSFORME E MOSTRE A TEMPERATURA EM GRAUS CELSIUS.
+
+CÓDIGO:
+print("CONVERSOR DE FAHRENHEIT PARA CELSIUS")
+F = int(input("Digite a temperatura em fahrenheit: "))
+C = 5*((F-32)/9)
+print(F , "graus Fahrenheit equivalem a " , C , "graus Celsius.")
+---------------------------------------------------------------------
+
+10. FAÇA UM PROGRAMA QUE PEÇA A TEMPERATURA EM GRAUS CELSIUS, TRANSFORME E MOSTRE A TEMPERATURA EM GRAUS FAHRENHEIT.
+
+CÓDIGO:
+print("CONVERSOR DE CELSIUS PARA FAHRENHEIT")
+C = int(input("Digite a temperatura em Celsius: "))
+F = (C*1.8)+32
+print(C , "graus Celsius equivalem a " , F , "graus Fahrenheit.")
