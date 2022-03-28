@@ -1,4 +1,11 @@
-## CALCULADORA IMC
+# CALCULADORA IMC
+'''
+ MENOR QUE 18,5	MAGREZA	0
+ ENTRE 18,5 E 24,9	NORMAL	0
+ ENTRE 25,0 E 29,9	SOBREPESO	I
+ ENTRE 30,0 E 39,9	OBESIDADE	II
+ MAIOR QUE 40,0	OBESIDADE GRAVE	III
+'''
 
 altura = float(input('Qual é a sua altura em CM: '))
 peso = float(input('Qual é o seu peso em KG: '))
@@ -19,10 +26,3 @@ elif IMC >= 30 and IMC <= 39.9:
 
 else:
   print(f'Seu IMC é de {IMC}, e é classificado como OBESIDADE GRAVE III')
-          
-
-# MENOR QUE 18,5	MAGREZA	0
-# ENTRE 18,5 E 24,9	NORMAL	0
-# ENTRE 25,0 E 29,9	SOBREPESO	I
-# ENTRE 30,0 E 39,9	OBESIDADE	II
-# MAIOR QUE 40,0	OBESIDADE GRAVE	III
