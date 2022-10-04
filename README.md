@@ -1,6 +1,6 @@
 <h1 align="center"> PYTHON </h1>
 
-<p align="center"> Codificando na linguagem de programação Python </p>
+<p align="center"> Linguagem de programação Python<br>Neste "README.md" serão mostradas algumas dicas para quem está iniciando na linguagem PYTHON.</p>
 
 <p align="left"> <b>DEFINIÇÃO:</b> Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. </p>
 <hr>
